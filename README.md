@@ -1,5 +1,16 @@
 # Match Horoscope
 
+## Pastas
+<h3>Estruturado</h3>
+<p>
+    Como o nome da pasta sugere é o codigo feito de forma estruturada em um unico arquivo .py
+</p>
+
+<h3>POO</h3>
+<p>
+    Aqui é aplicado o conceito da programação orientada a objetos, então existe mais de um arquivo e aqui é utilizado classes e metodos em vez de funções.
+</p>
+
 ### O que auxilia pessoalmente?
 <p>
     Match Horoscope é um projeto pessoal feito parar auxiliar no desenvolvimento pessoal de utilização de classes em python.

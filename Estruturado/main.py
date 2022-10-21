@@ -24,6 +24,7 @@ class Tema():
     ideal = sg.theme('Topanga')
 
 
+
 #Menu
 def tela_menu():
     Tema.ideal
@@ -103,7 +104,7 @@ def tela_consulta(pessoa):
             relacionar(pessoa, value['name'], value['name2'])
 
     janela.close()
-            
+          
 
 
 #Realiza o cadastro da pessoa
